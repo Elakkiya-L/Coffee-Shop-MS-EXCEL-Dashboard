@@ -8,11 +8,17 @@ The dashboard combines data from multiple worksheets using advanced Excel lookup
 
 ## 📊 Dashboard Features
 Total Customers Analysis
+
 Revenue Tracking
+
 Quantity Sold Monitoring
+
 Highest Revenue Country Identification
+
 Most Sold Coffee Type Analysis
+
 Top 5 Customers by Revenue
+
 Revenue Trend Over Time
 
 ## 🛠 Tools & Techniques Used
