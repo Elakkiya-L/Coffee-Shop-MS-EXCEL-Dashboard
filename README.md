@@ -1,5 +1,5 @@
 
-### ☕ Coffee Sales Dashboard – Excel Project
+# ☕ Coffee Sales Dashboard – Excel Project
 ## 📌 Project Overview
 
 This project is an interactive Coffee Sales Dashboard built in Microsoft Excel to analyze sales performance, customer trends, and product insights.
