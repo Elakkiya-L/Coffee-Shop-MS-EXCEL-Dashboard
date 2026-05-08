@@ -24,25 +24,39 @@ Revenue Trend Over Time
 ## 🛠 Tools & Techniques Used
 Microsoft Excel
 XLOOKUP
+
 INDEX + MATCH
+
 Pivot Tables
+
 Pivot Charts
+
 Slicers & Interactive Filters
+
 KPI Cards
+
 Data Cleaning & Transformation
 
 ## 📈 Insights Generated
 United States generated the highest revenue
+
 Arabica was the most sold coffee type
+
 Revenue trends were analyzed across multiple years
+
 Customer purchase behavior was identified using top customer analysis
 
 ## 🎯 Skills Demonstrated
 Data Cleaning
+
 Data Analysis
+
 Dashboard Design
+
 Business Reporting
+
 Excel Automation Techniques
+
 Interactive Visualization
 
 ## 🚀 Project Outcome
